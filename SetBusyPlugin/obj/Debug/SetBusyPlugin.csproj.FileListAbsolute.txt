@@ -1,0 +1,8 @@
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\bin\Debug\SetBusyPlugin.exe.config
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\bin\Debug\SetBusyPlugin.exe
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\bin\Debug\SetBusyPlugin.pdb
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\obj\Debug\SetBusyPlugin.csprojResolveAssemblyReference.cache
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\obj\Debug\SetBusyPlugin.exe
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\obj\Debug\SetBusyPlugin.pdb
+c:\users\v-marqja\documents\visual studio 2015\Projects\SetBusyPlugin\SetBusyPlugin\bin\Debug\msshrtmi.dll
