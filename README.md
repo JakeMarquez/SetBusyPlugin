@@ -7,15 +7,14 @@ load balancer.
 Standalone
 * Set up RDP for your virtual machine and remote in
 * In this project, navigate to SetBusyPlugin\bin\Debug
-* Drag the the two dll's mentioned in the dependencies section into the E/F drive approot
-* Drag the SetBusyPlugin.exe and SetBusyPlugin.exe.config  into the E/F drive approot
-* Open a command line
+* Drag the the two dll's mentioned in the dependencies section into your project folder
+* Drag the SetBusyPlugin.exe and SetBusyPlugin.exe.config  into the same folder
+* Upload/Update your project in the cloud
+* Open a command line in the directory where SetBusyPlugin is via RDP or CommandLine interface
 * Run the command `SetBusyPlugin.exe on` to set the role to busy. Changes will be reflected in Azure Portal within 3-4 minutes.
 * Run the command `SetBusyPlugin.exe off` to set the role to running. Changes will be reflected in Azure Portal within 3-4 minutes.
 
-Just .exe  
-If you already have a copy of the two dll's mentioned in the dependencies section below within the bin folder of your project you can
-simply drag the SetBusyPlugin.exe SetBusyPlugin.exe.config into the folder with them and run it from there! 
+Azure Tip: If you have a Cloud Service, you can create RDP settings for your vms in the Azure blade, and RDP into the instance to set it busy. If you have a App Service you cant RDP because you dont own the VM your site is run on, but you can access its files through KUDO if you go to App Service-> (left hand side) Advanced Tools -> Go-> (at top) Debug Console-> CMD
 
 # Features
 * Event Logs: If your experiencing issues with the plugin and would like to quickly view the logs you can in the Windows Event Viewer.
