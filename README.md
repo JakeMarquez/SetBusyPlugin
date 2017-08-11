@@ -4,9 +4,6 @@ or deleting and redploying simply RDP into the instance - set it as busy and the
 load balancer.
 
 # How to Use
-Standalone
-* Set up RDP for your virtual machine and remote in
-* In this project, navigate to SetBusyPlugin\bin\Debug
 * Drag the the two dll's mentioned in the dependencies section into your project folder
 * Drag the SetBusyPlugin.exe and SetBusyPlugin.exe.config  into the same folder
 * Upload/Update your project in the cloud
